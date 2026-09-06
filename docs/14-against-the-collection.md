@@ -151,8 +151,37 @@ a named-and-absent asset -- $boot/OrgData/menu/game.anim
 iamaduck counted twice: 4,896 pure sectors and 585 partial ones
 ```
 
-Chapter 17 records what went into `3do-platformnotes-doc` and what was
-deliberately not promoted.
+## What was written into the platform notes, and the commit
+
+`3do-platformnotes-doc` was read in full **before a single clause of
+`docs/00-predictions.md` was written** — 2,881 lines at commit `7fc9840` — and
+it saved four predictions outright: the 128-against-132 label question, the 1904
+epoch, the `0x02` block identity and the fixed +224 offset of the signature are
+all settled there and were cited rather than re-derived.
+
+**It was then edited and pushed**, on branch `main`, at commit
+
+> **[`bd94fa8`](https://github.com/vs-sr-dev/3do-platformnotes-doc/commit/bd94fa8)**
+> — *Sixth disc: the redundancy is in the data after all, and a trap that did
+> not fire.* **+656 lines, −107**, taking the document from 2,881 lines to
+> **3,430**.
+
+The mark reconciliation was **re-counted by the document's own command** rather
+than by eye and the table now carries a sixth column: **149 opening marks, from
+136**, of which seven are new `[1 of 1]` lines and three are new `[corrected]`.
+
+**And what was deliberately NOT promoted.** Five `[2 of 2]` lines this disc
+leaves untouched — no `.PAL`, no `M.K.`, no `BRGR`, no `APPSCRN`, one track —
+stay at `[2 of 2]`. Being uncontradicted a sixth time is not evidence, and this
+disc is the argument for that rule rather than an exception to it: **the one
+line it could finally test after five discs of silence turned out to be wrong.**
+
+**One rule was reported as inapplicable rather than confirmed.** The notes'
+answered open question 10 — *the builder writes up to the end of a run of
+root-directory copies and stops* — cannot be exercised here, because this disc's
+seven root copies are single blocks with no two adjacent, so there is no *run* to
+end. That is written into the notes as neither a confirmation nor a refutation,
+which is what promoting for silence would have avoided saying.
 
 ## The debt this repository does not owe and reports anyway
 
