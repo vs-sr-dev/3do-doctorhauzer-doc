@@ -1,0 +1,111 @@
+_work/hauzer.bin
+  files in the volume            : 366
+  files with >= 2 copies         : 80
+  root directory copies          : 7 at 85, 19675, 38475, 57690, 79779, 100363, 109741
+
+  /OrgData/effect/ASHI_GARA2                        2768 B  4 copies  identical  41536,41548,41560,46172
+  /OrgData/effect/ASHI_WOOD1                        5840 B  5 copies  identical  7340,7353,38935,39146,46438
+  /OrgData/effect/BAKUHATSU3                       47378 B  3 copies  identical  79789,120011,120976
+  /OrgData/effect/HAUZER_UMEKI                     75874 B  2 copies  identical  21806,121010
+  /OrgData/effect/IWAOTIRU.AIFF                    30906 B  5 copies  identical  38885,64454,64504,64554,109363
+  /OrgData/effect/IWA_fall                         48048 B  5 copies  identical  38901,64470,64520,64570,109379
+  /OrgData/effect/JYAGUCHI                          6690 B  2 copies  identical  36476,64604
+  /OrgData/effect/MORI_TOBIDASU1                    4386 B  2 copies  identical  61290,84626
+  /OrgData/effect/SWITCH_ON                         2000 B  3 copies  identical  27294,66098,120824
+  /OrgData/effect/SYOUGEKI3                         6434 B  6 copies  identical  18158,46158,57858,66099,113654,118086
+  /OrgData/effect/TETSU_HASHIGO1                    2594 B  3 copies  identical  52332,84200,84614
+  /OrgData/effect/iventclear04                     30988 B  4 copies  identical  36480,114208,119606,120798
+  /OrgData/effect/machine02                        29412 B  4 copies  identical  18143,66103,113658,118090
+  /OrgData/etc/NowLoading.cel                       4380 B  4 copies  identical  41421,43838,48091,64339
+  /OrgData/etc/bg.cel                                616 B  5 copies  identical  32142,39016,41268,44019,50098
+  /OrgData/etc/colcel.cel                            112 B  5 copies  identical  41432,43849,44042,48102,64350
+  /OrgData/human/HumanPol.bin                     188976 B  5 copies  identical  41433,43850,44043,48103,64351
+  /OrgData/human/HumanTex.bin                      63452 B  5 copies  identical  32076,38950,41202,43953,50032
+  /OrgData/images/image.scp                          514 B  5 copies  identical  41424,43841,44034,48094,64342
+  /OrgData/images/mado.img                        153724 B  3 copies  identical  46451,50197,52206
+  /OrgData/images/mado2.img                       153724 B  2 copies  identical  42200,48269
+  /OrgData/item/ItemPol.bin                        23324 B  5 copies  identical  32107,38981,41233,43984,50063
+  /OrgData/item/ItemTex.bin                        46404 B  5 copies  identical  32119,38993,41245,43996,50075
+  /OrgData/macro/macro002                           7256 B  2 copies  identical  111090,113474
+  /OrgData/macro/macro003                           4776 B  4 copies  identical  7337,111269,111879,112259
+  /OrgData/macro/macro004                          11416 B  5 copies  identical  109413,117839,118633,118954,119242
+  /OrgData/macro/macro005                           4616 B  3 copies  identical  111575,111737,112117
+  /OrgData/macro/macro201                           6040 B  3 copies  identical  8959,64326,114410
+  /OrgData/macro/macro202                           2792 B  2 copies  identical  114731,114924
+  /OrgData/macro/macro204                           5320 B  2 copies  identical  113713,114024
+  /OrgData/macro/macro210                           7816 B  4 copies  identical  115589,115964,117262,117552
+  /OrgData/macro/macro211                           5784 B  4 copies  identical  114244,114565,115078,115413
+  /OrgData/macro/macro216                           5576 B  3 copies  identical  52292,84160,84574
+  /OrgData/macro/macro301                           4176 B  3 copies  identical  2616,34409,100393
+  /OrgData/macro/macro304                           4304 B  2 copies  identical  23201,25247
+  /OrgData/menu/continue.anim                      26272 B  5 copies  identical  48232,49933,49996,52511,57726
+  /OrgData/menu/opening.anim                       26272 B  5 copies  identical  48206,49907,49970,52485,57700
+  /OrgData/menu/operation.anim                     26272 B  5 copies  identical  48245,49946,50009,52524,57739
+  /OrgData/menu/start.anim                         26272 B  5 copies  identical  48219,49920,49983,52498,57713
+  /OrgData/mes/mes.scp                             11409 B  5 copies  identical  41426,43843,44036,48096,64344
+  /OrgData/music/FUKUROU.aifc                    3938240 B  2 copies  identical  44222,50273
+  /OrgData/music/ending.aifc                     4020972 B  6 copies  identical  485,3684,16168,19827,32435,59316
+  /OrgData/music/inu_008.aifc                    3178176 B  3 copies  identical  42276,46529,48345
+  /OrgData/music/music001.aifc                   1488064 B  2 copies  identical  2726,112727
+  /OrgData/music/music003.aifc                   3097280 B  7 copies  identical  5814,7436,9104,11235,18162,27306,36962
+  /OrgData/music/music004.aifc                   6368448 B  2 copies  identical  12901,28956
+  /OrgData/music/music005.aifc                   3986112 B  4 copies  identical  23290,25336,34519,39245
+  /OrgData/music/tokei_007.aifc                  2696616 B  3 copies  identical  57952,64618,109753
+  /OrgData/room/room002.bin                       296864 B  2 copies  identical  111094,113478
+  /OrgData/room/room003.bin                       242580 B  4 copies  identical  39017,111272,111882,112262
+  /OrgData/room/room004.bin                       275656 B  7 copies  identical  3549,32149,109419,117845,118639,118960,119248
+  /OrgData/room/room005.bin                       264040 B  3 copies  identical  111578,111740,112120
+  /OrgData/room/room008.bin                       287672 B  3 copies  identical  12760,32294,118138
+  /OrgData/room/room009.bin                       192952 B  2 copies  identical  46217,119405
+  /OrgData/room/room010.bin                       235496 B  2 copies  identical  227,119117
+  /OrgData/room/room201.bin                       288860 B  4 copies  identical  8962,41269,65945,114413
+  /OrgData/room/room202.bin                       289860 B  2 copies  identical  114733,114926
+  /OrgData/room/room204.bin                       308732 B  2 copies  identical  113716,114027
+  /OrgData/room/room205.bin                       215612 B  2 copies  identical  46322,115742
+  /OrgData/room/room206.bin                       289776 B  2 copies  identical  19685,116125
+  /OrgData/room/room209.bin                       253956 B  2 copies  identical  28831,117117
+  /OrgData/room/room210.bin                       253924 B  4 copies  identical  115593,115968,117266,117556
+  /OrgData/room/room211.bin                       292732 B  5 copies  identical  342,114247,114568,115081,115416
+  /OrgData/room/room216.bin                        75168 B  4 copies  identical  52295,59279,84163,84577
+  /OrgData/room/room301.bin                       217680 B  4 copies  identical  2619,34412,100396,121068
+  /OrgData/room/room303.bin                       299396 B  2 copies  identical  16021,112428
+  /OrgData/room/room304.bin                       174188 B  3 copies  identical  3453,23204,25250
+  /OrgData/room/room305.bin                       164104 B  2 copies  identical  112606,120885
+  /OrgData/stream/GODS                            491520 B  2 copies  identical  119722,120241
+  /OrgData/stream/stream.scp                         162 B  5 copies  identical  41425,43842,44035,48095,64343
+  /OrgData/window/cmd01.img                       153724 B  7 copies  identical  10703,36506,38713,41648,42114,84250,119520
+  /OrgData/window/cursor.cel                         616 B  7 copies  identical  5737,7435,57951,84215,84239,119711,120230
+  /OrgData/window/note.img                        153724 B  7 copies  identical  5658,7356,57772,57872,119632,120151,120491
+  /OrgData/window/pen.cel                           4276 B  7 copies  identical  5734,7432,57948,84212,84236,119708,120227
+  /System/Audio/dsp/dcsqxdhalfstereo.dsp            1220 B  7 copies  identical  38938,46527,84725,84737,84759,84771,109751
+  /System/Audio/dsp/envelope.dsp                     682 B  7 copies  identical  48258,49959,52537,66146,79823,85373,85642
+  /System/Audio/dsp/mixer2x2.dsp                     724 B  7 copies  identical  38939,46528,84726,84738,84760,84772,109752
+  /System/Audio/dsp/sampler.dsp                      566 B  7 copies  identical  2485,18142,27293,66097,109362,113653,114885
+  /rom_tags                                          128 B  2 copies  DIFFER  1,226
+  /Disc label                                        132 B  2 copies  identical  0,225
+
+  copies compared, byte for byte:
+    groups whose copies are identical : 79 of 80
+    groups whose copies DIFFER        : 1 of 80
+      /rom_tags
+        copy 0  79ca17e920b91cb432890cc17e4ee4cd01995894
+        copy 1  986008085207ca72370814aff8522cee2d4fd10d
+
+  the histogram, by declared copy count:
+    2 copies :  24 files
+    3 copies :  13 files
+    4 copies :  13 files
+    5 copies :  18 files
+    6 copies :   2 files
+    7 copies :  10 files
+
+  what the second and later copies cost:
+    blocks : 43970
+    bytes  : 90050560
+    of the 128300-sector track : 34.2712 %
+
+  the gap between consecutive copies of one file, in blocks:
+    gaps measured : 231
+    min / median / max : 12 / 4060 / 118890
+    mean : 15970.4
+

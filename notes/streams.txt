@@ -1,0 +1,36 @@
+file          bytes     walked  chunks       FILM       SNDS       FILL      SSMP
+EDDS       30146560   30146560    3469   17223284    6333728    6589280   6307840
+        sound: 16-bit 22050 Hz x2, compression 'SDX2', SSMP 6307840 == declared 6307840
+GODS         491520     491520     149     380104          0     111148         0
+MESDS      10584064   10584064    1330    6294500    2501024    1788272   2488320
+        sound: 16-bit 22050 Hz x2, compression 'SDX2', SSMP 2488320 == declared 2488320
+OPDS       27918336   27918336    3924   15307476    7649104    4961488   7624704
+        sound: 16-bit 22050 Hz x2, compression 'SDX2', SSMP 7624704 == declared 7624704
+PADDS       1146880    1146880     105      86552     893264     166796    884736
+        sound: 16-bit 22050 Hz x2, compression 'SDX2', SSMP 884736 == declared 884736
+SLDS       10551296   10551296    1018    6732704    1737744    2080580   1722368
+        sound: 16-bit 22050 Hz x2, compression 'SDX2', SSMP 1722368 == declared 1722368
+STDS        4063232    4063232     518    2413328     974464     675172    972800
+        sound: 16-bit 22050 Hz x2, compression 'SDX2', SSMP 972800 == declared 972800
+TRDS        8683520    8683520     892    5191468    1559104    1932676   1552384
+        RESYNCED at 7995388: a bare 'FILL' tag with no length field
+        sound: 16-bit 22050 Hz x2, compression 'SDX2', SSMP 1552384 == declared 1552384
+
+files walked            : 8
+bytes in those files    : 93585408
+bytes the chunks explain: 93585408
+unexplained             : 0
+resyncs performed       : 1
+
+by tag:
+  FILM     53629416   57.31 % of the eight files
+  SNDS     21648432   23.13 % of the eight files
+  FILL     18305412   19.56 % of the eight files
+  SHDR         1952    0.00 % of the eight files
+  CTRL          192    0.00 % of the eight files
+
+recorded sound inside the films:
+  SSMP sample bytes     : 21553152
+  SNDS SHDR declares    : 21553152
+  difference            : 0
+  as a share of the 262758400-byte user area : 8.2027 %

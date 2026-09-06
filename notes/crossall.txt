@@ -1,0 +1,516 @@
+my distinct sha1            : 362
+  (identical files inside one object collapse into one key here;
+   the file count is the tree census's, not this tool's)
+empty-file sha1 among mine  : no
+collection root             : d:/Homebrew7
+skipping                    : 3do-doctorhauzer-doc
+
+repositories swept          : 85
+list files swept            : 379
+hash tokens read            : 132092
+distinct sha1 in those lists: (counted below)
+
+========================================================================
+EMPTY-FILE SHA1 (the trap): 32 occurrences in 12 repositories
+   dc-dinocrisis-doc                        x4
+   pc-allodsonline-doc                      x2
+   pc-bloodandlace-doc                      x1
+   pc-brokensword4-doc                      x1
+   pc-canediterracotta-doc                  x1
+   pc-capcombeatemupbundle-doc              x1
+   pc-clic11-doc                            x9
+   pc-deadlypremonitiondc-doc               x3
+   pc-ilmiocomputer0206                     x6
+   pc-residentevil-doc                      x2
+   pc-zerocomico-doc                        x1
+   vis-racetheclock-doc                     x1
+   -> excluded from the crossings below.
+
+========================================================================
+CROSSINGS: 56 of my 362 distinct hashes appear in another repository
+
+sha1 0ecf9b80137c2253fcde8671145ce46766fb4398   9368 bytes
+   mine : System/Audio/aiff/sinewave.aiff
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 ced2ff7eb5c246d8a55a110a1c3dbc00f2ad8912   5050 bytes
+   mine : System/Kernel/boot_code
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+
+sha1 c4f67651f640951a6287bc145959d6d70e46073c   3452 bytes
+   mine : System/Audio/dsp/mixer12x2.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 10ed0989e57273d09230e867934d291ff16377a2   2476 bytes
+   mine : System/Audio/dsp/mixer8x2amp.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 0396b93c6fe967b2d6a7c05d9e445f84e1ca47b4   2448 bytes
+   mine : System/Audio/dsp/submixer8x2.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 9d137fcd190b1b198921a09e0833e7ba6bce8ce2   2416 bytes
+   mine : System/Audio/dsp/sawenvsvfenv.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 b509536c30116942c32a777e9d6922edb93db1f5   2356 bytes
+   mine : System/Audio/dsp/mixer8x2.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 88548df7e1282af91a35e8dab513b96326f03e67   2304 bytes
+   mine : System/Audio/dsp/sampler3d.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 43685120d48af6a13501f76319e2c06aabe394ea   1360 bytes
+   mine : System/Audio/dsp/submixer4x2.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 5805ffebf6bcb63d7033a0835fdb1bef2e47b731   1330 bytes
+   mine : System/Audio/dsp/sawfilteredsaw.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 4cdc9fea47cd377c9fa78f0e57543ff1736e580b   1268 bytes
+   mine : System/Audio/dsp/mixer4x2.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 ba459c5ccc6b2de1ea956735dc6508f044d3021f   1220 bytes
+   mine : System/Audio/dsp/dcsqxdhalfstereo.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 512a263146c2fd92a7ece37e1fe2f414b3d342dc   1082 bytes
+   mine : System/Audio/dsp/sawenv.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 024c0105e0cc67ef21f5f15a9d6103842b5cad8c   1060 bytes
+   mine : System/Audio/dsp/samplerenv.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 2179862be081cdfa1f610973dc093961bac1b779   1020 bytes
+   mine : System/Audio/dsp/sawfilterednoise.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 b6d03cdc7d04ab43f00bfe9aaa9eff6ebfb612d1   964 bytes
+   mine : System/Audio/dsp/pulser.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 3a16789495ac16b8631a5511ec22bf7e0a59a01c   916 bytes
+   mine : System/Audio/dsp/dcsqxdstereo.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 a9b427bcc7185b535bbdae79591cf7ea3ab3e209   872 bytes
+   mine : System/Audio/dsp/dcsqxdhalfmono.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 1e2d616061b7832a7b9821de29ba06433e6488d4   872 bytes
+   mine : System/Audio/dsp/varmono8.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 fab71f5c19510fbe80a3ed748112127cfc18ac9c   868 bytes
+   mine : System/Audio/dsp/decodeadpcm.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 80f10112134d7d85cd510910d1bdca1bcdf474e1   804 bytes
+   mine : System/Audio/dsp/adpcmmono.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+
+sha1 ccf20b48830872cde09a0c30be6fd809ac737e8b   800 bytes
+   mine : System/Audio/dsp/samplermod.dsp
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 9914008fd40fced488a20d98800d3402fd7dd52d   784 bytes
+   mine : System/Audio/dsp/deemphcd.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 52cf9f082b2a47baa83662357fc22c6f488d0ebe   756 bytes
+   mine : System/Audio/dsp/dcsqxdmono.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 4beda4ee4efae019eae7123bb5bb72c300d3e0e7   738 bytes
+   mine : System/Audio/dsp/svfilter.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 1ec006b48ca16611c720b92613a0f118aecf32d3   724 bytes
+   mine : System/Audio/dsp/halfstereo8.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 105d55216656f05c975eded51089b02e1af556d7   724 bytes
+   mine : System/Audio/dsp/mixer2x2.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 da0d8c81fc5f2c947e8e9f12875cb98ee50967f5   706 bytes
+   mine : System/Audio/dsp/halfmono8.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 83f10b1f76f87e5a5393ca7db59a143505aced57   706 bytes
+   mine : System/Audio/dsp/filterednoise.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 3eb6bbddd737434de2f3481a384dacaf843e07cd   682 bytes
+   mine : System/Audio/dsp/envelope.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 79789221310b73ea7c408308574c48eab3c6f9d8   680 bytes
+   mine : System/Audio/dsp/varmono16.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 88e02df74fe1750ae6600374f9896c057441dbdf   648 bytes
+   mine : System/Audio/dsp/rednoise.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 724de211d8148eadb5a291ee6f1ac1ecb9bff94c   610 bytes
+   mine : System/Audio/dsp/fixedstereo16swap.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 7a9c2c9375b5a0c20cbd3575441c1ace0e4d220c   602 bytes
+   mine : System/Audio/dsp/halfmonosample.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+
+sha1 cfd4916deed9e86bf9ad673b28ca816d022b66e9   566 bytes
+   mine : System/Audio/dsp/sampler.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 70b4fa16e953e50a734c39f10d4c85af536f5508   542 bytes
+   mine : System/Audio/dsp/fixedmono8.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 c362f3a55ba7e2aff34a9cd901676d8e1e8d772d   540 bytes
+   mine : System/Audio/dsp/timesplus.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 c266172b575e5662e0312000c3e4ca9e26336483   526 bytes
+   mine : System/Audio/dsp/triangle.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 4844fd2f550f5e8951f6201755b0e29a6ffbc4b7   518 bytes
+   mine : System/Audio/dsp/impulse.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 340e4f8c16abe989f698d1ceb7481af2d2d25caa   518 bytes
+   mine : System/Audio/dsp/fixedstereo8.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 21482cf9e82b4a6f4c67bfc2928235550db3b362   480 bytes
+   mine : System/Audio/dsp/sawtooth.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 b22237411bc42cc467d53f54e09c72909fabf627   474 bytes
+   mine : System/Audio/dsp/fixedstereosample.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+
+sha1 67a5cec9f6ef62f291c5641a0ce516cc392275a8   474 bytes
+   mine : System/Audio/dsp/romtail.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 29436023c681a4255c541913b85ecd2ff9fc41d9   454 bytes
+   mine : System/Audio/dsp/envfollower.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+
+sha1 bb1918dd72899f008a8680ac5e68bb06415ad63c   436 bytes
+   mine : System/Audio/dsp/romhead.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 7af1124357ba4523af5600bb2aad8483b0d03111   436 bytes
+   mine : System/Audio/dsp/tail.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 07bd8d2a8e6d5a8b820a6ea59d25c82c4a080ef7   432 bytes
+   mine : System/Audio/dsp/head.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 e4e22511d5160f8b9d90abf56a1428fa3f08c167   430 bytes
+   mine : System/Audio/dsp/multiply.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 7a8f32d26978c62e38c14eea65af36cf4fd99a8f   412 bytes
+   mine : System/Audio/dsp/fixedmonosample.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+
+sha1 bd4a1b16939cad11d04e3b897024630718880617   358 bytes
+   mine : System/Audio/dsp/probe.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 918decc0b374f3269639610d7495c147e4d8eaf4   324 bytes
+   mine : System/Audio/dsp/noise.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 1b6d07288f3a108b352cbddcb47ed979ec8a1511   318 bytes
+   mine : System/Audio/dsp/thru.dsp
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+
+sha1 cf5522beedf5be607952269afd9afb58986a71f5   284 bytes
+   mine : System/Audio/dsp/delaymono.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 798360acbdbb89e1c7d6a175f5cb4d0a369647ba   280 bytes
+   mine : System/Audio/dsp/oscupdownfp.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 2b58c71760743cb2dfa0dbf90bd583abcca2c076   242 bytes
+   mine : System/Audio/dsp/monitor.dsp
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-crashnburn-doc                 notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/crossall.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
+sha1 11f4de6b8b45cf8051b1d17fa4cde9ad935cea41   1 bytes
+   mine : System/Graphics/Fonts/junk
+   also : 3do-adndslayer-doc                 notes/crossall.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-adndslayer-doc                 notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/crossall.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-aloneinthedark-doc             notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-superstreetfighter2turbo-doc   notes/sha1-all.txt
+   also : 3do-wolfenstein3d-doc              notes/crossall.txt
+   also : 3do-wolfenstein3d-doc              notes/sha1-all.txt
+
